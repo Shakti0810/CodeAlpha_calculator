@@ -1,4 +1,4 @@
-CodeAlpha CALCULATOR
+# CodeAlpha CALCULATOR
 
 A simple and interactive Calculator Web Application developed as part of my CodeAlpha Internship. The project is designed to perform basic arithmetic operations through a clean and user-friendly interface.
 
