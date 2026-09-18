@@ -10,14 +10,14 @@ This project helped me strengthen my understanding of HTML, CSS, and JavaScript 
 
  FEATURES
 
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- 🔄 Clear/Reset functionality
-- 🖥️ Interactive user interface
-- ⚡ Instant calculation results
-- 📱 Simple and responsive design
+-  Addition
+-  Subtraction
+-  Multiplication
+-  Division
+-  Clear/Reset functionality
+-  Interactive user interface
+-  Instant calculation results
+-  Simple and responsive design
   
 TECHNOLOGIES USED
 
